@@ -1,4 +1,4 @@
-## @superset-ui/legacy-preset-chart-big-number
+## @arthanasti/legacy-preset-chart-big-number
 
 [![Version](https://img.shields.io/npm/v/@superset-ui/legacy-preset-chart-big-number.svg?style=flat-square)](https://www.npmjs.com/package/@superset-ui/legacy-preset-chart-big-number)
 [![David (path)](https://img.shields.io/david/apache-superset/superset-ui-plugins.svg?path=packages%2Fsuperset-ui-legacy-preset-chart-big-number&style=flat-square)](https://david-dm.org/apache-superset/superset-ui-plugins?path=plugins/superset-ui-legacy-preset-chart-big-number)
@@ -11,7 +11,7 @@ Import the preset and register. This will register the `BigNumber` and `BigNumbe
 key `big-number` and `big-number-total`, respectively.
 
 ```js
-import { BigNumberChartPreset } from '@superset-ui/legacy-preset-chart-big-number';
+import { BigNumberChartPreset } from '@arthanasti/legacy-preset-chart-big-number';
 
 new BigNumberChartPreset().register();
 ```
