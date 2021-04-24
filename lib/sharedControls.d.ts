@@ -16,7 +16,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-import { CustomControlItem } from '@superset-ui/chart-controls';
+import { CustomControlItem } from '@arthanasti/chart-controls';
 export declare const headerFontSize: CustomControlItem;
 export declare const subheaderFontSize: CustomControlItem;
 //# sourceMappingURL=sharedControls.d.ts.map

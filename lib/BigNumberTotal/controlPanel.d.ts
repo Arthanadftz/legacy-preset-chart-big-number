@@ -13,7 +13,7 @@ declare const _default: {
     } | {
         label: string;
         expanded: boolean;
-        controlSetRows: import("@superset-ui/chart-controls").CustomControlItem[][];
+        controlSetRows: import("@arthanasti/chart-controls").CustomControlItem[][];
     })[];
     controlOverrides: {
         y_axis_format: {
